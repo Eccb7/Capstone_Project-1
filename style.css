@@ -237,12 +237,6 @@ body {
     margin: auto;
   }
 
-  .speaker-details {
-    margin-bottom: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
-  }
-
   .speaker-info > :first-child {
     font-weight: bold;
   }
@@ -342,12 +336,13 @@ body {
   margin: 0;
   background-color: #272a31;
   background-size: 50px 40px;
-  background-image: radial-gradient(
-    transparent 28px,
-    #00000010 28px,
-    #000 32px,
-    transparent 32px
-  );
+  background-image:
+    radial-gradient(
+      transparent 28px,
+      #00000010 28px,
+      #000 32px,
+      transparent 32px
+    );
   color: #dedede;
 }
 
