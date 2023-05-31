@@ -222,6 +222,27 @@ body {
     margin: 10px 0;
   }
 
+  .hidden {
+    display: none;
+  }
+
+  .more-btn {
+    background-color: #848181;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: block;
+    margin: auto;
+  }
+
+  .speaker-details {
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+  }
+
   .speaker-info > :first-child {
     font-weight: bold;
   }
@@ -249,6 +270,14 @@ body {
   }
 
   #footer2 {
+    display: none;
+  }
+
+  .foot-img2 {
+    display: none;
+  }
+
+  .footer2-p {
     display: none;
   }
 
@@ -313,13 +342,12 @@ body {
   margin: 0;
   background-color: #272a31;
   background-size: 50px 40px;
-  background-image:
-    radial-gradient(
-      transparent 28px,
-      #00000010 28px,
-      #000 32px,
-      transparent 32px
-    );
+  background-image: radial-gradient(
+    transparent 28px,
+    #00000010 28px,
+    #000 32px,
+    transparent 32px
+  );
   color: #dedede;
 }
 
