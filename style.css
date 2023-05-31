@@ -490,11 +490,11 @@ body {
 }
 
 #footer2 {
-    display: flex;
-    justify-content: space-between;
-    background-color: #f6f4f4;
-    padding: 0;
-  }
+  display: flex;
+  justify-content: space-between;
+  background-color: #f6f4f4;
+  padding: 0;
+}
 
 .foot-img {
   width: 50px;
