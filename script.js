@@ -57,12 +57,6 @@ speakersTitle.textContent = "Featured Speakers";
 var featuredSpeakers = document.getElementById("featured-speakers");
 featuredSpeakers.insertAdjacentElement("beforebegin", speakersTitle);
 
-
-// var titleElement = document.createElement("h3");
-// titleElement.textContent = "Featured Speakers";
-// titleElement.classList.add("speakers-title");
-// featuredSpeakers.appendChild(titleElement);
-
 speakers.forEach(function (speaker) {
     var speakerDetails = document.createElement("div");
     speakerDetails.classList.add("speaker-details");
