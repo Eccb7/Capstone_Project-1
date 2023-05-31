@@ -99,7 +99,7 @@ speakers.forEach(function (speaker) {
 });
 
 var moreButton = document.querySelector(".more-btn");
-var speakers = Array.from(document.querySelectorAll(".speaker-details"));
+speakers = Array.from(document.querySelectorAll(".speaker-details"));
 
 moreButton.addEventListener("click", function () {
   speakers.slice(-4).forEach(function (speaker) {
