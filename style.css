@@ -738,6 +738,19 @@ body {
     flex-direction: row;
   }
 
+  #footer2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #dedede;
+    color: #272a31;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+
+  .foot-img2 {
+    width: 50px;
+  }
+
   #footer1 {
     display: flex;
     justify-content: space-between;
