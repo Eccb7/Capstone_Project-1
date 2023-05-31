@@ -260,6 +260,14 @@ body {
     grid-gap: 20px;
   }
 
+  #partners2 {
+    display: none;
+  }
+
+  #footer2 {
+    display: none;
+  }
+
   #footer1 {
     display: flex;
     justify-content: space-between;
@@ -480,6 +488,13 @@ body {
   background-color: #f6f4f4;
   padding: 0;
 }
+
+#footer2 {
+    display: flex;
+    justify-content: space-between;
+    background-color: #f6f4f4;
+    padding: 0;
+  }
 
 .foot-img {
   width: 50px;
