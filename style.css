@@ -707,6 +707,10 @@ body {
     margin: 10px 0;
   }
 
+  .more-btn {
+    display: none;
+  }
+
   .speaker-info:first-child {
     font-weight: bold;
   }
