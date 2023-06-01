@@ -46,14 +46,9 @@
 - **JAVASCRIPT**
 ### Key Features <a name="key-features"></a>
 
-- Different layout for Desktop and Mobile
-- Responsive webpage
-- Page animation
-- Submitting form using formspree.io
-- When the user clicks (or taps) the hamburger button, the mobile menu appears.
-- When the user clicks (or taps) the close (X) button, the mobile menu disappears.
-- When the user clicks (or taps) any of the mobile menu options, the mobile menu disappears.
-- When the user clicks (or taps) any of the mobile menu options, a correct part of the page is displayed.
+
+- **This decribes who i am to my employer**
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -61,8 +56,8 @@
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://eccb7.github.io/Capstone_Project-1/)
-<!-- - [walkthrough](#) -->
+- [Live Demo Link](#)
+- [walkthrough](#)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
